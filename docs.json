@@ -8,24 +8,31 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": [
-    {
-      "group": "copprOS",
-      "pages": [
-        "copprOS/index",
-        "copprOS/getting-started",
-        {
-          "group": "Core components",
-          "pages": [
-            "copprOS/link/index",
-            "copprOS/card/index",
-            "copprOS/dashboard/index"
-          ]
-        },
-        "copprOS/integrations"
-      ]
-    }
-  ],
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "copprOS",
+            "pages": [
+              "copprOS/index",
+              "copprOS/getting-started",
+              {
+                "group": "Core components",
+                "pages": [
+                  "copprOS/link/index",
+                  "copprOS/card/index",
+                  "copprOS/dashboard/index"
+                ]
+              },
+              "copprOS/integrations"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
