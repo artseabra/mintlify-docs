@@ -1,16 +1,14 @@
-# copprOS Documentation
+# ifthis⏐software studio Documentation
 
-Documentation site for **copprOS** - The Digital Identity OS. This documentation is deployed to `https://docs.ifth.is/copprOS` and provides comprehensive guides for using the Coppr platform.
+Documentation hub for all software tools built by **ifthis⏐software studio**. This documentation site is deployed to `https://docs.ifth.is` and provides comprehensive guides for our software products.
 
-## About copprOS
+## About
 
-copprOS is the brand-new operating system behind the entire Coppr platform, enabling lifelong connections crafted to perfection. The documentation covers the three core components:
+This repository contains the documentation for ifthis⏐software studio's software tools. Currently, the documentation includes:
 
-- **Coppr Link**: Your interactive digital profile that makes a lasting first impression
-- **Coppr Card**: The sustainable business card made from recycled materials
-- **Coppr Dashboard**: Manage your profile on the fly from any device
+- **copprOS**: The Digital Identity OS - operating system for digital identity with components including Coppr Link, Coppr Card, and Dashboard
 
-This repository contains the complete documentation structure and content for the copprOS platform.
+More tools from ifthis⏐software studio will be added as they're released.
 
 ## Development
 
