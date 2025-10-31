@@ -1,16 +1,16 @@
-# Mintlify Starter Kit
+# copprOS Documentation
 
-Use the starter kit to get your docs deployed and ready to customize.
+Documentation site for **copprOS** - The Digital Identity OS. This documentation is deployed to `https://docs.ifth.is/copprOS` and provides comprehensive guides for using the Coppr platform.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+## About copprOS
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+copprOS is the brand-new operating system behind the entire Coppr platform, enabling lifelong connections crafted to perfection. The documentation covers the three core components:
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+- **Coppr Link**: Your interactive digital profile that makes a lasting first impression
+- **Coppr Card**: The sustainable business card made from recycled materials
+- **Coppr Dashboard**: Manage your profile on the fly from any device
+
+This repository contains the complete documentation structure and content for the copprOS platform.
 
 ## Development
 
